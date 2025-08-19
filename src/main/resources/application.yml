@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ParameterizedTypeReference
+fakestore:
+  base-url: https://fakestoreapi.com
+server:
+  port: 8081
